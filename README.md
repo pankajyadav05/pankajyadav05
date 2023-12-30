@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at [https://www.pankajyadav.dev](https://www.pankajyadav.dev)<br><br>📫 How to reach me **hello@pankajyadav.dev**<br>
+👨‍💻 All of my projects are available at [pankajyadav.dev](https://www.pankajyadav.dev)<br><br>📫 How to reach me **hello@pankajyadav.dev**<br>
 
 
 ## 🌐 Socials:
